@@ -1,0 +1,14 @@
+# # -*- coding: utf-8 -*-
+# """
+# Created on Tue May 12 22:23:44 2020
+
+# @author: Raghu
+# """
+---
+file_log_level: INFO  # DEBUG
+console_log_level: INFO
+log_file_name: Toy_Robot_Simulator.log
+grid_size: [4, 4]
+
+
+

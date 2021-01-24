@@ -4,3 +4,8 @@ Change Log
 0.0.1 (23/01/2021)
 ------------------
 - First release of toy robot simulation
+
+0.0.2 (24/01/2021)
+------------------
+- Added the exception handling and logging to file and console
+- Added the yaml config file

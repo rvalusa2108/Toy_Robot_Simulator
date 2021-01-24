@@ -1,0 +1,65 @@
+2021-01-24 22:52:57,439 : INFO : __main__ : ####################### 01/24/2021 22:52:57 - Sunday, January,2021 ################################
+2021-01-24 22:58:15,831 : INFO : __main__ : ####################### 01/24/2021 22:58:15 - Sunday, January,2021 ################################
+2021-01-24 22:59:46,889 : INFO : __main__ : ####################### 01/24/2021 22:59:46 - Sunday, January,2021 ################################
+2021-01-24 22:59:46,892 : INFO : toy_robot.classes_methods : X: 0 Y: 1 Direction: NORTH
+2021-01-24 22:59:46,894 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: WEST
+2021-01-24 22:59:46,895 : INFO : toy_robot.classes_methods : X: 3 Y: 3 Direction: NORTH
+2021-01-24 22:59:46,896 : INFO : toy_robot.classes_methods : Robot placement coordinates are outside of the grid defined.
+2021-01-24 22:59:59,459 : INFO : __main__ : ####################### 01/24/2021 22:59:59 - Sunday, January,2021 ################################
+2021-01-24 22:59:59,461 : INFO : toy_robot.classes_methods : X: 0 Y: 1 Direction: NORTH
+2021-01-24 22:59:59,462 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: WEST
+2021-01-24 22:59:59,463 : INFO : toy_robot.classes_methods : X: 3 Y: 3 Direction: NORTH
+2021-01-24 22:59:59,463 : INFO : toy_robot.classes_methods : X: 4 Y: 4 Direction: EAST
+2021-01-24 23:11:04,427 : INFO : __main__ : ####################### 01/24/2021 23:11:04 - Sunday, January,2021 ################################
+2021-01-24 23:11:04,429 : INFO : toy_robot.classes_methods : X: 0 Y: 1 Direction: NORTH
+2021-01-24 23:11:04,430 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: WEST
+2021-01-24 23:11:04,431 : INFO : toy_robot.classes_methods : X: 3 Y: 3 Direction: NORTH
+2021-01-24 23:11:04,432 : INFO : toy_robot.classes_methods : Robot placement coordinates are outside of the grid defined.
+2021-01-24 23:12:08,343 : INFO : __main__ : ####################### 01/24/2021 23:12:08 - Sunday, January,2021 ################################
+2021-01-24 23:12:08,345 : INFO : toy_robot.classes_methods : X: 0 Y: 1 Direction: NORTH
+2021-01-24 23:12:08,346 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: WEST
+2021-01-24 23:12:08,347 : INFO : toy_robot.classes_methods : X: 3 Y: 3 Direction: NORTH
+2021-01-24 23:12:08,348 : INFO : toy_robot.classes_methods : X: 3 Y: 2 Direction: EAST
+2021-01-24 23:17:29,319 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: EAST
+2021-01-24 23:17:29,323 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: SOUTH
+2021-01-24 23:17:29,328 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: WEST
+2021-01-24 23:17:29,334 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: SOUTH
+2021-01-24 23:17:29,339 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: NORTH
+2021-01-24 23:17:29,344 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: NORTH
+2021-01-24 23:17:29,349 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: SOUTH
+2021-01-24 23:17:29,354 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: SOUTH
+2021-01-24 23:17:29,359 : INFO : toy_robot.classes_methods : X: 2 Y: 5 Direction: EAST
+2021-01-24 23:17:29,364 : INFO : toy_robot.classes_methods : Robot placement coordinates are outside of the grid defined.
+2021-01-24 23:17:29,809 : INFO : toy_robot.classes_methods : Robot placement coordinates are outside of the grid defined.
+2021-01-24 23:21:21,659 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: EAST
+2021-01-24 23:21:21,664 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: SOUTH
+2021-01-24 23:21:21,670 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: WEST
+2021-01-24 23:21:21,675 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: SOUTH
+2021-01-24 23:21:21,681 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: NORTH
+2021-01-24 23:21:21,686 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: NORTH
+2021-01-24 23:21:21,691 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: SOUTH
+2021-01-24 23:21:21,697 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: SOUTH
+2021-01-24 23:21:21,702 : INFO : toy_robot.classes_methods : X: 2 Y: 5 Direction: EAST
+2021-01-24 23:21:21,708 : INFO : toy_robot.classes_methods : Robot placement coordinates are outside of the grid defined.
+2021-01-24 23:21:21,723 : INFO : toy_robot.classes_methods : Robot placement coordinates are outside of the grid defined.
+2021-01-24 23:22:23,971 : INFO : __main__ : ####################### 01/24/2021 23:22:23 - Sunday, January,2021 ################################
+2021-01-24 23:22:23,973 : INFO : toy_robot.classes_methods : X: 0 Y: 1 Direction: NORTH
+2021-01-24 23:22:23,974 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: WEST
+2021-01-24 23:22:23,975 : INFO : toy_robot.classes_methods : X: 3 Y: 3 Direction: NORTH
+2021-01-24 23:22:23,977 : INFO : toy_robot.classes_methods : X: 3 Y: 2 Direction: EAST
+2021-01-24 23:22:35,442 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: EAST
+2021-01-24 23:22:35,448 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: SOUTH
+2021-01-24 23:22:35,453 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: WEST
+2021-01-24 23:22:35,458 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: SOUTH
+2021-01-24 23:22:35,463 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: NORTH
+2021-01-24 23:22:35,468 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: NORTH
+2021-01-24 23:22:35,473 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: SOUTH
+2021-01-24 23:22:35,478 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: SOUTH
+2021-01-24 23:22:35,483 : INFO : toy_robot.classes_methods : X: 2 Y: 5 Direction: EAST
+2021-01-24 23:22:35,489 : INFO : toy_robot.classes_methods : Robot placement coordinates are outside of the grid defined.
+2021-01-24 23:22:35,504 : INFO : toy_robot.classes_methods : Robot placement coordinates are outside of the grid defined.
+2021-01-24 23:23:31,015 : INFO : __main__ : ####################### 01/24/2021 23:23:31 - Sunday, January,2021 ################################
+2021-01-24 23:23:31,017 : INFO : toy_robot.classes_methods : X: 0 Y: 1 Direction: NORTH
+2021-01-24 23:23:31,018 : INFO : toy_robot.classes_methods : X: 0 Y: 0 Direction: WEST
+2021-01-24 23:23:31,019 : INFO : toy_robot.classes_methods : X: 3 Y: 3 Direction: NORTH
+2021-01-24 23:23:31,020 : INFO : toy_robot.classes_methods : X: 3 Y: 2 Direction: EAST

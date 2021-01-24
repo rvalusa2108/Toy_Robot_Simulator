@@ -1,0 +1,6 @@
+Change Log
+==========
+
+0.0.1 (23/01/2021)
+------------------
+- First release of toy robot simulation

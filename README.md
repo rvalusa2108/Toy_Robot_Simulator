@@ -23,7 +23,7 @@ LEFT                    -- turns robot 90 degrees anticlockwise
 RIGTH                   -- turns robot 90 degrees clockwise  
 REPORT                  -- outputs current state into STDOUT  
 
-## Execution
+## Execution:
 1. Define input commands in ./toy_robot/input_commands.txt  
 2. cd ./<project_repo_directory>  
 3. Application execution  
